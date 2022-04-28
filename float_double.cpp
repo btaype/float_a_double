@@ -92,5 +92,5 @@ int main(){
 	cout<<"\nhexadecimal a binario(RAM)\n";
 	cout<<entero2<<"\n";
 	return 0;	
-	;
+	
 }
